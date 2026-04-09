@@ -1,0 +1,181 @@
+Order_ID,Date,Month,Region,Sales_Rep,Product,Category,Units_Sold,Price_Per_Unit,Sales
+1001,2025-01-08,Jan,North,Jordan Lee,Notebook Pack,Office Supplies,2,6,12
+1002,2025-01-19,Jan,North,Daniel Kim,Wireless Mouse,Electronics,4,25,100
+1003,2025-01-23,Jan,East,Chris Johnson,Monitor,Electronics,9,185,1665
+1004,2025-01-25,Jan,East,Chris Johnson,Laptop Stand,Office Supplies,7,33,231
+1005,2025-01-04,Jan,East,Jordan Lee,Desk Lamp,Office Supplies,9,25,225
+1006,2025-01-18,Jan,North,Ava Brown,Webcam,Electronics,8,70,560
+1007,2025-01-19,Jan,South,Chris Johnson,Desk Lamp,Office Supplies,12,28,336
+1008,2025-01-28,Jan,East,Maya Patel,Wireless Mouse,Electronics,1,23,23
+1009,2025-01-12,Jan,West,Daniel Kim,Keyboard,Electronics,2,60,120
+1010,2025-01-20,Jan,North,Ava Brown,Wireless Mouse,Electronics,2,30,60
+1011,2025-01-21,Jan,East,Chris Johnson,Notebook Pack,Office Supplies,5,13,65
+1012,2025-01-08,Jan,West,Ava Brown,Laptop Stand,Office Supplies,3,30,90
+1013,2025-01-07,Jan,East,Daniel Kim,Desk Lamp,Office Supplies,4,35,140
+1014,2025-01-05,Jan,South,Chris Johnson,Notebook Pack,Office Supplies,5,6,30
+1015,2025-01-12,Jan,East,Chris Johnson,Phone Charger,Electronics,2,18,36
+1016,2025-02-05,Feb,East,Jordan Lee,Wireless Mouse,Electronics,3,30,90
+1017,2025-02-20,Feb,West,Jordan Lee,Phone Charger,Electronics,6,20,120
+1018,2025-02-22,Feb,West,Daniel Kim,Wireless Mouse,Electronics,3,27,81
+1019,2025-02-15,Feb,West,Maya Patel,Keyboard,Electronics,7,55,385
+1020,2025-02-17,Feb,East,Chris Johnson,Keyboard,Electronics,7,55,385
+1021,2025-02-12,Feb,North,Chris Johnson,Keyboard,Electronics,5,58,290
+1022,2025-02-16,Feb,South,Daniel Kim,Desk Lamp,Office Supplies,1,25,25
+1023,2025-02-08,Feb,South,Daniel Kim,Notebook Pack,Office Supplies,1,8,8
+1024,2025-02-27,Feb,South,Jordan Lee,Webcam,Electronics,5,70,350
+1025,2025-02-09,Feb,East,Chris Johnson,Keyboard,Electronics,6,62,372
+1026,2025-02-23,Feb,East,Chris Johnson,Monitor,Electronics,6,180,1080
+1027,2025-02-04,Feb,North,Maya Patel,Webcam,Electronics,4,73,292
+1028,2025-02-01,Feb,North,Jordan Lee,Monitor,Electronics,8,175,1400
+1029,2025-02-03,Feb,East,Daniel Kim,Desk Lamp,Office Supplies,2,32,64
+1030,2025-02-08,Feb,West,Chris Johnson,Webcam,Electronics,4,75,300
+1031,2025-03-14,Mar,East,Maya Patel,Phone Charger,Electronics,15,20,300
+1032,2025-03-24,Mar,South,Jordan Lee,Phone Charger,Electronics,1,20,20
+1033,2025-03-06,Mar,East,Chris Johnson,Phone Charger,Electronics,5,20,100
+1034,2025-03-02,Mar,South,Maya Patel,Wireless Mouse,Electronics,5,30,150
+1035,2025-03-06,Mar,South,Daniel Kim,Monitor,Electronics,4,180,720
+1036,2025-03-13,Mar,South,Daniel Kim,Keyboard,Electronics,3,55,165
+1037,2025-03-23,Mar,North,Chris Johnson,Phone Charger,Electronics,5,25,125
+1038,2025-03-02,Mar,West,Jordan Lee,Monitor,Electronics,9,182,1638
+1039,2025-03-17,Mar,North,Jordan Lee,Webcam,Electronics,8,77,616
+1040,2025-03-22,Mar,East,Jordan Lee,Wireless Mouse,Electronics,12,23,276
+1041,2025-03-14,Mar,East,Chris Johnson,Wireless Mouse,Electronics,6,30,180
+1042,2025-03-08,Mar,East,Maya Patel,Desk Lamp,Office Supplies,12,30,360
+1043,2025-03-01,Mar,East,Maya Patel,Wireless Mouse,Electronics,7,25,175
+1044,2025-03-17,Mar,South,Jordan Lee,Monitor,Electronics,3,180,540
+1045,2025-03-10,Mar,South,Daniel Kim,Desk Lamp,Office Supplies,3,28,84
+1046,2025-04-22,Apr,North,Chris Johnson,Laptop Stand,Office Supplies,3,37,111
+1047,2025-04-04,Apr,East,Daniel Kim,Notebook Pack,Office Supplies,6,8,48
+1048,2025-04-07,Apr,East,Chris Johnson,Desk Lamp,Office Supplies,7,35,245
+1049,2025-04-03,Apr,West,Maya Patel,Laptop Stand,Office Supplies,4,40,160
+1050,2025-04-21,Apr,East,Maya Patel,Keyboard,Electronics,3,60,180
+1051,2025-04-04,Apr,West,Maya Patel,Laptop Stand,Office Supplies,7,30,210
+1052,2025-04-14,Apr,West,Daniel Kim,Keyboard,Electronics,1,58,58
+1053,2025-04-12,Apr,South,Ava Brown,Laptop Stand,Office Supplies,5,33,165
+1054,2025-04-20,Apr,East,Ava Brown,Phone Charger,Electronics,2,25,50
+1055,2025-04-14,Apr,East,Jordan Lee,Keyboard,Electronics,3,55,165
+1056,2025-04-09,Apr,West,Daniel Kim,Monitor,Electronics,9,178,1602
+1057,2025-04-12,Apr,South,Jordan Lee,Webcam,Electronics,2,75,150
+1058,2025-04-28,Apr,North,Maya Patel,Notebook Pack,Office Supplies,3,8,24
+1059,2025-04-01,Apr,West,Ava Brown,Desk Lamp,Office Supplies,3,25,75
+1060,2025-04-20,Apr,South,Maya Patel,Wireless Mouse,Electronics,3,25,75
+1061,2025-05-13,May,East,Chris Johnson,Wireless Mouse,Electronics,3,27,81
+1062,2025-05-12,May,North,Jordan Lee,Monitor,Electronics,1,180,180
+1063,2025-05-24,May,South,Chris Johnson,Wireless Mouse,Electronics,5,25,125
+1064,2025-05-18,May,West,Maya Patel,Notebook Pack,Office Supplies,2,6,12
+1065,2025-05-20,May,South,Ava Brown,Keyboard,Electronics,3,62,186
+1066,2025-05-14,May,South,Maya Patel,Monitor,Electronics,6,182,1092
+1067,2025-05-17,May,West,Maya Patel,Monitor,Electronics,9,180,1620
+1068,2025-05-03,May,East,Chris Johnson,Desk Lamp,Office Supplies,7,28,196
+1069,2025-05-08,May,South,Jordan Lee,Laptop Stand,Office Supplies,5,35,175
+1070,2025-05-23,May,East,Maya Patel,Monitor,Electronics,7,185,1295
+1071,2025-05-25,May,East,Ava Brown,Laptop Stand,Office Supplies,5,30,150
+1072,2025-05-02,May,South,Ava Brown,Webcam,Electronics,2,77,154
+1073,2025-05-22,May,East,Jordan Lee,Webcam,Electronics,8,77,616
+1074,2025-05-27,May,South,Daniel Kim,Phone Charger,Electronics,3,22,66
+1075,2025-05-25,May,North,Chris Johnson,Notebook Pack,Office Supplies,5,6,30
+1076,2025-06-09,Jun,North,Chris Johnson,Monitor,Electronics,1,180,180
+1077,2025-06-05,Jun,East,Maya Patel,Wireless Mouse,Electronics,3,23,69
+1078,2025-06-14,Jun,East,Jordan Lee,Phone Charger,Electronics,7,20,140
+1079,2025-06-25,Jun,East,Daniel Kim,Phone Charger,Electronics,13,22,286
+1080,2025-06-10,Jun,West,Jordan Lee,Desk Lamp,Office Supplies,5,30,150
+1081,2025-06-16,Jun,North,Ava Brown,Monitor,Electronics,4,178,712
+1082,2025-06-24,Jun,East,Maya Patel,Phone Charger,Electronics,6,18,108
+1083,2025-06-19,Jun,South,Chris Johnson,Phone Charger,Electronics,13,22,286
+1084,2025-06-02,Jun,West,Daniel Kim,Keyboard,Electronics,4,60,240
+1085,2025-06-09,Jun,West,Maya Patel,Phone Charger,Electronics,4,20,80
+1086,2025-06-12,Jun,West,Ava Brown,Laptop Stand,Office Supplies,13,33,429
+1087,2025-06-07,Jun,East,Jordan Lee,Monitor,Electronics,13,175,2275
+1088,2025-06-15,Jun,West,Jordan Lee,Monitor,Electronics,5,185,925
+1089,2025-06-25,Jun,East,Chris Johnson,Wireless Mouse,Electronics,6,23,138
+1090,2025-06-13,Jun,South,Chris Johnson,Phone Charger,Electronics,9,25,225
+1091,2025-07-28,Jul,South,Maya Patel,Notebook Pack,Office Supplies,4,13,52
+1092,2025-07-12,Jul,South,Chris Johnson,Laptop Stand,Office Supplies,3,37,111
+1093,2025-07-28,Jul,East,Ava Brown,Laptop Stand,Office Supplies,9,35,315
+1094,2025-07-14,Jul,North,Daniel Kim,Keyboard,Electronics,6,58,348
+1095,2025-07-15,Jul,North,Chris Johnson,Webcam,Electronics,6,75,450
+1096,2025-07-09,Jul,West,Maya Patel,Wireless Mouse,Electronics,2,25,50
+1097,2025-07-01,Jul,North,Ava Brown,Desk Lamp,Office Supplies,3,30,90
+1098,2025-07-09,Jul,East,Ava Brown,Desk Lamp,Office Supplies,7,32,224
+1099,2025-07-03,Jul,West,Chris Johnson,Monitor,Electronics,8,178,1424
+1100,2025-07-21,Jul,West,Maya Patel,Webcam,Electronics,5,80,400
+1101,2025-07-23,Jul,East,Maya Patel,Phone Charger,Electronics,4,18,72
+1102,2025-07-14,Jul,West,Chris Johnson,Desk Lamp,Office Supplies,5,35,175
+1103,2025-07-08,Jul,North,Maya Patel,Notebook Pack,Office Supplies,6,8,48
+1104,2025-07-07,Jul,East,Chris Johnson,Keyboard,Electronics,8,58,464
+1105,2025-07-04,Jul,North,Daniel Kim,Notebook Pack,Office Supplies,2,6,12
+1106,2025-08-09,Aug,East,Jordan Lee,Keyboard,Electronics,2,55,110
+1107,2025-08-04,Aug,North,Jordan Lee,Webcam,Electronics,6,70,420
+1108,2025-08-09,Aug,West,Maya Patel,Laptop Stand,Office Supplies,1,35,35
+1109,2025-08-05,Aug,West,Jordan Lee,Laptop Stand,Office Supplies,6,33,198
+1110,2025-08-20,Aug,East,Maya Patel,Phone Charger,Electronics,7,22,154
+1111,2025-08-10,Aug,West,Chris Johnson,Webcam,Electronics,5,77,385
+1112,2025-08-25,Aug,North,Chris Johnson,Wireless Mouse,Electronics,6,23,138
+1113,2025-08-18,Aug,North,Jordan Lee,Keyboard,Electronics,7,55,385
+1114,2025-08-08,Aug,North,Chris Johnson,Laptop Stand,Office Supplies,6,35,210
+1115,2025-08-09,Aug,South,Jordan Lee,Monitor,Electronics,7,185,1295
+1116,2025-08-21,Aug,South,Maya Patel,Monitor,Electronics,4,178,712
+1117,2025-08-20,Aug,East,Jordan Lee,Notebook Pack,Office Supplies,7,13,91
+1118,2025-08-23,Aug,West,Chris Johnson,Notebook Pack,Office Supplies,3,8,24
+1119,2025-08-14,Aug,West,Jordan Lee,Laptop Stand,Office Supplies,4,40,160
+1120,2025-08-25,Aug,East,Jordan Lee,Laptop Stand,Office Supplies,4,40,160
+1121,2025-09-09,Sep,North,Jordan Lee,Webcam,Electronics,6,73,438
+1122,2025-09-12,Sep,South,Daniel Kim,Webcam,Electronics,3,75,225
+1123,2025-09-23,Sep,East,Jordan Lee,Phone Charger,Electronics,4,20,80
+1124,2025-09-15,Sep,West,Ava Brown,Laptop Stand,Office Supplies,3,30,90
+1125,2025-09-22,Sep,East,Ava Brown,Laptop Stand,Office Supplies,5,37,185
+1126,2025-09-21,Sep,East,Maya Patel,Webcam,Electronics,2,75,150
+1127,2025-09-23,Sep,West,Daniel Kim,Webcam,Electronics,8,75,600
+1128,2025-09-10,Sep,North,Maya Patel,Keyboard,Electronics,1,62,62
+1129,2025-09-15,Sep,East,Daniel Kim,Wireless Mouse,Electronics,7,20,140
+1130,2025-09-14,Sep,West,Ava Brown,Notebook Pack,Office Supplies,4,8,32
+1131,2025-09-28,Sep,West,Maya Patel,Keyboard,Electronics,4,55,220
+1132,2025-09-27,Sep,South,Maya Patel,Notebook Pack,Office Supplies,3,8,24
+1133,2025-09-28,Sep,South,Chris Johnson,Webcam,Electronics,4,73,292
+1134,2025-09-15,Sep,West,Chris Johnson,Phone Charger,Electronics,2,20,40
+1135,2025-09-02,Sep,East,Maya Patel,Phone Charger,Electronics,8,20,160
+1136,2025-10-16,Oct,South,Maya Patel,Keyboard,Electronics,2,55,110
+1137,2025-10-04,Oct,North,Daniel Kim,Webcam,Electronics,7,77,539
+1138,2025-10-03,Oct,West,Ava Brown,Keyboard,Electronics,3,60,180
+1139,2025-10-28,Oct,North,Ava Brown,Desk Lamp,Office Supplies,5,35,175
+1140,2025-10-28,Oct,East,Ava Brown,Webcam,Electronics,1,77,77
+1141,2025-10-08,Oct,East,Ava Brown,Notebook Pack,Office Supplies,1,13,13
+1142,2025-10-15,Oct,East,Chris Johnson,Wireless Mouse,Electronics,8,23,184
+1143,2025-10-10,Oct,East,Maya Patel,Laptop Stand,Office Supplies,4,35,140
+1144,2025-10-06,Oct,East,Maya Patel,Keyboard,Electronics,2,58,116
+1145,2025-10-19,Oct,West,Ava Brown,Webcam,Electronics,2,73,146
+1146,2025-10-26,Oct,East,Maya Patel,Laptop Stand,Office Supplies,4,35,140
+1147,2025-10-19,Oct,East,Maya Patel,Desk Lamp,Office Supplies,8,30,240
+1148,2025-10-07,Oct,North,Chris Johnson,Notebook Pack,Office Supplies,9,8,72
+1149,2025-10-01,Oct,North,Chris Johnson,Notebook Pack,Office Supplies,4,13,52
+1150,2025-10-20,Oct,North,Ava Brown,Laptop Stand,Office Supplies,4,40,160
+1151,2025-11-20,Nov,South,Ava Brown,Monitor,Electronics,3,180,540
+1152,2025-11-21,Nov,North,Ava Brown,Keyboard,Electronics,7,55,385
+1153,2025-11-24,Nov,East,Maya Patel,Desk Lamp,Office Supplies,1,28,28
+1154,2025-11-05,Nov,West,Maya Patel,Monitor,Electronics,5,182,910
+1155,2025-11-27,Nov,South,Daniel Kim,Notebook Pack,Office Supplies,3,8,24
+1156,2025-11-05,Nov,West,Jordan Lee,Wireless Mouse,Electronics,9,23,207
+1157,2025-11-03,Nov,South,Daniel Kim,Desk Lamp,Office Supplies,1,30,30
+1158,2025-11-19,Nov,East,Maya Patel,Notebook Pack,Office Supplies,9,8,72
+1159,2025-11-20,Nov,East,Maya Patel,Laptop Stand,Office Supplies,5,37,185
+1160,2025-11-23,Nov,East,Jordan Lee,Webcam,Electronics,11,75,825
+1161,2025-11-16,Nov,East,Daniel Kim,Notebook Pack,Office Supplies,1,8,8
+1162,2025-11-22,Nov,West,Maya Patel,Desk Lamp,Office Supplies,8,35,280
+1163,2025-11-14,Nov,West,Ava Brown,Keyboard,Electronics,1,65,65
+1164,2025-11-02,Nov,North,Daniel Kim,Notebook Pack,Office Supplies,3,13,39
+1165,2025-11-04,Nov,West,Maya Patel,Desk Lamp,Office Supplies,4,35,140
+1166,2025-12-09,Dec,South,Maya Patel,Phone Charger,Electronics,1,18,18
+1167,2025-12-21,Dec,South,Jordan Lee,Monitor,Electronics,8,185,1480
+1168,2025-12-26,Dec,East,Maya Patel,Keyboard,Electronics,10,62,620
+1169,2025-12-11,Dec,East,Jordan Lee,Monitor,Electronics,14,178,2492
+1170,2025-12-04,Dec,South,Chris Johnson,Keyboard,Electronics,5,65,325
+1171,2025-12-01,Dec,South,Maya Patel,Desk Lamp,Office Supplies,10,28,280
+1172,2025-12-16,Dec,West,Jordan Lee,Wireless Mouse,Electronics,5,25,125
+1173,2025-12-24,Dec,East,Chris Johnson,Laptop Stand,Office Supplies,7,40,280
+1174,2025-12-28,Dec,North,Jordan Lee,Webcam,Electronics,6,75,450
+1175,2025-12-03,Dec,West,Daniel Kim,Wireless Mouse,Electronics,9,25,225
+1176,2025-12-13,Dec,East,Chris Johnson,Desk Lamp,Office Supplies,7,32,224
+1177,2025-12-28,Dec,West,Maya Patel,Wireless Mouse,Electronics,9,30,270
+1178,2025-12-15,Dec,West,Daniel Kim,Phone Charger,Electronics,5,18,90
+1179,2025-12-11,Dec,West,Maya Patel,Wireless Mouse,Electronics,4,25,100
+1180,2025-12-03,Dec,West,Jordan Lee,Webcam,Electronics,4,70,280

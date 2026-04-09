@@ -1,0 +1,49 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load the sales data
+df = pd.read_csv("sales_data.csv")
+
+# Main business metrics
+total_sales = df["Sales"].sum()
+average_order_value = df["Sales"].mean()
+total_units_sold = df["Units_Sold"].sum()
+
+# Best performers
+top_product = df.groupby("Product")["Sales"].sum().idxmax()
+top_region = df.groupby("Region")["Sales"].sum().idxmax()
+top_sales_rep = df.groupby("Sales_Rep")["Sales"].sum().idxmax()
+
+# Print a simple summary
+print("----- Sales Performance Summary -----")
+print("Total Sales: $", round(total_sales, 2))
+print("Average Order Value: $", round(average_order_value, 2))
+print("Total Units Sold:", total_units_sold)
+print("Top Product:", top_product)
+print("Top Region:", top_region)
+print("Top Sales Rep:", top_sales_rep)
+
+# Keep months in the right order for the chart
+month_order = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+               "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+
+monthly_sales = df.groupby("Month")["Sales"].sum().reindex(month_order)
+region_sales = df.groupby("Region")["Sales"].sum().sort_values(ascending=False)
+
+# Chart 1: Monthly sales
+monthly_sales.plot(kind="bar")
+plt.title("Monthly Sales")
+plt.xlabel("Month")
+plt.ylabel("Sales")
+plt.tight_layout()
+plt.savefig("monthly_sales.png")
+plt.show()
+
+# Chart 2: Sales by region
+region_sales.plot(kind="bar")
+plt.title("Sales by Region")
+plt.xlabel("Region")
+plt.ylabel("Sales")
+plt.tight_layout()
+plt.savefig("sales_by_region.png")
+plt.show()
