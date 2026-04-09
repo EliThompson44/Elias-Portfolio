@@ -46,7 +46,7 @@ const projects = {
     actions: [
       {
         label: "Download Excel Workbook",
-        href: "./Eli%20AI%20Adoption%20Business%20impact%20project.xlsx",
+        href: "Eli AI Adoption Business impact project.xlsx",
         download: true,
         primary: true
       }
@@ -74,7 +74,7 @@ const projects = {
     actions: [
       {
         label: "Download SQLite Database",
-        href: "./SQLite%20Customer%20Segmentation%20project.db",
+        href: "SQLite Customer Segmentation project.db",
         download: true,
         primary: true
       }
@@ -129,7 +129,7 @@ const projects = {
     actions: [
       {
         label: "Download Auto Purchase Model",
-        href: "./Eli%20Thompson%20Auto%20Purchase%20File.xlsx",
+        href: "Eli Thompson Auto Purchase File.xlsx",
         download: true,
         primary: true
       }
@@ -148,12 +148,10 @@ function renderActions(actions) {
   return actions
     .map((action) => {
       const classes = action.primary ? "btn btn-primary" : "btn btn-secondary";
-      const downloadName = action.download
-        ? decodeURIComponent(action.href.split("/").pop() || "")
-        : "";
+      const downloadName = action.download ? action.href.split("/").pop() || "" : "";
       const downloadAttr = action.download ? `download="${downloadName}"` : "";
       const targetAttr = action.external ? 'target="_blank" rel="noopener noreferrer"' : "";
-      const safeHref = action.href;
+      const safeHref = action.external ? action.href : `./${encodeURI(action.href)}`;
       return `<a class="${classes}" href="${safeHref}" ${downloadAttr} ${targetAttr}>${action.label}</a>`;
     })
     .join("");
